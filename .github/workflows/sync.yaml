@@ -36,7 +36,7 @@ jobs:
           HALO_POLICY_NAME: ${{ secrets.HALO_POLICY_NAME }}
         run: |
           npm run sync:local
-          npm run sync:halo
+#          npm run sync:halo
 
       - name: 配置Git用户名邮箱
         run: |
