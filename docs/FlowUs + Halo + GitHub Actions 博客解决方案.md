@@ -1,7 +1,7 @@
 ---
 urlname: flowus-halo
 title: FlowUs + Halo + GitHub Actions 博客解决方案
-updated: '2023-12-01 13:26:12'
+updated: '2023-12-01 18:55:27'
 date: '2023-11-29 17:28:00'
 autoExcerpt: 'true'
 categories:
@@ -14,7 +14,7 @@ excerpt: 开启自动生成
 publish: 'true'
 ---
 # 快速开始
-## 文档站点工具汇总
+## 站点工具汇总
 - 写作平台：FlowUs
 
 - 文档平台：[Halo](https://www.halo.run/)
