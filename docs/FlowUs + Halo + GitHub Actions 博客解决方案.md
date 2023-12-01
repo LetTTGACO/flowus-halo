@@ -1,7 +1,7 @@
 ---
 urlname: flowus-halo
 title: FlowUs + Halo + GitHub Actions 博客解决方案
-updated: '2023-11-30 17:55:37'
+updated: '2023-12-01 13:26:12'
 date: '2023-11-29 17:28:00'
 autoExcerpt: 'true'
 categories:
@@ -21,7 +21,7 @@ publish: 'true'
 
 - 文档同步：[Elog](https://github.com/LetTTGACO/elog)
 
-## 文档站点搭建指南
+## 站点搭建指南
 ### Fork模板仓库
 [点击 Fork](https://github.com/elog-x/flowus-halo/fork) 该模板仓库到个人 Github 账号仓库下并 clone 到本地。
 ### 安装依赖
@@ -81,5 +81,8 @@ https://serverless-api-elog.vercel.app/api/github?user=xxx&repo=xxx&event_type=d
 #### 自动触发
 FlowUs 目前还没有基于Webhooks的自动触发流程
 ## 参考示例
-示例 Github 仓库：[https://github.com/LetTTGACO/flowus-halo](https://github.com/LetTTGACO/flowus-halo)
+示例 Github 仓库：[https://github.com/LetTTGACO/flowus-halo](https://github.com/LetTTGACO/flowus-halo)  
+
 示例 FlowUs 数据表格：[elog-halo](https://flowus.cn/1874/share/e4e1e6dc-403b-45e6-b4cd-b3d8e6ae79b1)
+
+
