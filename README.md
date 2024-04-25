@@ -1,4 +1,6 @@
 # FlowUs + Elog + Halo + GitHub Actions 博客解决方案
+> FlowUs 图片问题请升级 `package.json` 中的 `@elog/cli` 至 `0.13.5`
+
 # 快速开始
 ## 站点工具汇总
 - 写作平台：FlowUs
