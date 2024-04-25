@@ -9,3 +9,4 @@ public/
 _multiconfig.yml
 .elog.env
 pnpm-lock.yaml
+package-lock.json
